@@ -2,4 +2,6 @@ Cero
 Uno
 Dos
 Tres
-Cuatro 
+Cuatro
+Treinta y tres
+Diez
